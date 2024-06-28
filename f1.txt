@@ -4,3 +4,5 @@ first status
 this is ne msg gor stpi
 check 
 
+hello
+this is rango
